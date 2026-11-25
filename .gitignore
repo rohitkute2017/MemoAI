@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal photographs
+sample_photos/
+
+# Local application data
+data/
+generated/
+models/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE files
+.idea/
